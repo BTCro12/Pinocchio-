@@ -1,0 +1,34 @@
+{
+  "name": "Pinocchio's Lumber-Lucre",
+  "symbol": "PINOC",
+  "description": "Pinocchio’s Lumber-Lucre – Trust no strings, only blocks. The first wooden memecoin powered by zero lies and maximum gains.",
+  "image": "https://raw.githubusercontent.com/BTCro12/Pinocchio-/main/IMG-20251201-WA0002.jpg",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Pinocchio"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Wooden Meme Coin"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Glowing Nose"
+    },
+    {
+      "trait_type": "Tagline",
+      "value": "Trust No Strings"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BTCro12/Pinocchio-/main/IMG-20251201-WA0002.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
